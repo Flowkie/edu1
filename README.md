@@ -8,3 +8,4 @@ OSSU (Repository) <br>
 For Motivation and reference of courses -> https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/ <br>
 https://www.reddit.com/r/learnprogramming/comments/dzzflm/if_you_are_learning_programmingnewbie_these_may/ <br>
 https://www.reddit.com/r/learnprogramming/comments/acuakt/ossu_or_teachyourselfcscom_for_self_learning_cs/ <br>
+https://github.com/Developer-Y/cs-video-courses <br>
