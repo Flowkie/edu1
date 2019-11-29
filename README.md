@@ -9,3 +9,5 @@ For Motivation and reference of courses -> https://www.scotthyoung.com/blog/mypr
 https://www.reddit.com/r/learnprogramming/comments/dzzflm/if_you_are_learning_programmingnewbie_these_may/ <br>
 https://www.reddit.com/r/learnprogramming/comments/acuakt/ossu_or_teachyourselfcscom_for_self_learning_cs/ <br>
 https://github.com/Developer-Y/cs-video-courses <br>
+https://www.reddit.com/r/learnprogramming/comments/87j7fw/teach_yourself_computer_science_a_diy_curriculum/<br>
+  </ul>
