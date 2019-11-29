@@ -13,3 +13,4 @@ https://www.reddit.com/r/learnprogramming/comments/87j7fw/teach_yourself_compute
   </ul>
 <p> If you're back to learning, read this first </p>
 https://www.coursera.org/learn/learning-how-to-learn<br>
+https://brunch.co.kr/@dwan/39 <- korean curriculum
