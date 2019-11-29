@@ -4,3 +4,4 @@ Test Web Server for Education<br>
 https://teachyourselfcs.com/ <br>
 OSSU (Repository) <br>
 For Motivation and reference of courses -> https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/ <br>
+https://www.reddit.com/r/learnprogramming/comments/dzzflm/if_you_are_learning_programmingnewbie_these_may/ <br>
