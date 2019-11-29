@@ -11,3 +11,5 @@ https://www.reddit.com/r/learnprogramming/comments/acuakt/ossu_or_teachyourselfc
 https://github.com/Developer-Y/cs-video-courses <br>
 https://www.reddit.com/r/learnprogramming/comments/87j7fw/teach_yourself_computer_science_a_diy_curriculum/<br>
   </ul>
+<p> If you're back to learning, read this first </p>
+https://www.coursera.org/learn/learning-how-to-learn<br>
